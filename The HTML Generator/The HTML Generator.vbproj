@@ -79,6 +79,18 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Gen Forms\HyperlinkGenerator.Designer.vb">
+      <DependentUpon>HyperlinkGenerator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gen Forms\HyperlinkGenerator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gen Forms\TypographyEditor.Designer.vb">
+      <DependentUpon>TypographyEditor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gen Forms\TypographyEditor.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -96,6 +108,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gen Forms\HyperlinkGenerator.resx">
+      <DependentUpon>HyperlinkGenerator.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>

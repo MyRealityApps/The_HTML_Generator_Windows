@@ -1,0 +1,10 @@
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\bin\Debug\The HTML Generator.exe
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\bin\Debug\The HTML Generator.pdb
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\bin\Debug\The HTML Generator.xml
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The_HTML_Generator.MainWindow.resources
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The_HTML_Generator.Resources.resources
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The HTML Generator.vbproj.GenerateResource.Cache
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The HTML Generator.exe
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The HTML Generator.xml
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The HTML Generator.pdb
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The_HTML_Generator.HyperlinkGenerator.resources
