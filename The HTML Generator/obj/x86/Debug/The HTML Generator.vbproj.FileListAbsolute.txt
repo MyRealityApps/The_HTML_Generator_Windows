@@ -8,3 +8,4 @@ C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\
 C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The HTML Generator.xml
 C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The HTML Generator.pdb
 C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The_HTML_Generator.HyperlinkGenerator.resources
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Debug\The_HTML_Generator.GeneratedCode.resources

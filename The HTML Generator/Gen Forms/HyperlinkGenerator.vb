@@ -5,19 +5,21 @@
             TextBox5.Enabled = True
             TextBox6.Enabled = True
             TextBox7.Enabled = True
+            TextBox8.Enabled = True
         ElseIf CheckBox3.Checked = False Then
             TextBox5.Enabled = False
             TextBox6.Enabled = False
             TextBox7.Enabled = False
+            TextBox8.Enabled = False
         End If
     End Sub
 
     Private Sub HyperlinkGenerator_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         TextBox3.Enabled = False
-        TextBox4.Enabled = False
         TextBox5.Enabled = False
         TextBox6.Enabled = False
         TextBox7.Enabled = False
+        TextBox8.Enabled = False
     End Sub
 
     Private Sub CheckBox1_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CheckBox1.CheckedChanged
@@ -28,11 +30,14 @@
         End If
     End Sub
 
-    Private Sub CheckBox2_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CheckBox2.CheckedChanged
-        If CheckBox2.Checked = True Then
-            TextBox4.Enabled = True
-        ElseIf CheckBox2.Checked = False Then
-            TextBox4.Enabled = False
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        Dim ErrorMessage As String = "You must include a _"
+        Dim TitleError As String = "Error: Missing Information"
+        If TextBox1.Text.Length = 0 Then
+            MessageBox.Show(ErrorMessage.Replace("a _", "the website's address."), TitleError, MessageBoxButtons.OK, MessageBoxIcon.Error)
+        ElseIf TextBox2.Text.Length = 0 Then
+            MessageBox.Show(ErrorMessage.Replace("a _", "the link's clickable text."), TitleError, MessageBoxButtons.OK, MessageBoxIcon.Error)
         End If
     End Sub
 End Class
