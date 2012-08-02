@@ -1,7 +1,7 @@
 ﻿Public Class MainWindow
 
     Private Sub MainWindow_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        Button1.Text = "Hello World!"
+        Button1.Text = "Please choose a generator or editor."
     End Sub
 
     Private Sub mainList_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ListBox1.SelectedIndexChanged

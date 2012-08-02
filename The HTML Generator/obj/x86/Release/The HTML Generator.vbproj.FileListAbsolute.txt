@@ -1,0 +1,15 @@
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\bin\Release\The HTML Generator.exe
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\bin\Release\The HTML Generator.pdb
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\bin\Release\The HTML Generator.xml
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Release\The_HTML_Generator.MainWindow.resources
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Release\The_HTML_Generator.HyperlinkGenerator.resources
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Release\The_HTML_Generator.GeneratedCode.resources
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Release\The_HTML_Generator.Resources.resources
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Release\The HTML Generator.vbproj.GenerateResource.Cache
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Release\The HTML Generator.exe
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Release\The HTML Generator.xml
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Release\The HTML Generator.pdb
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\bin\Release\The HTML Generator.exe.manifest
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\bin\Release\The HTML Generator.application
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Release\The HTML Generator.exe.manifest
+C:\Users\Shane\Documents\GitHub\Windows--HTML_Generator-\The HTML Generator\obj\x86\Release\The HTML Generator.application
